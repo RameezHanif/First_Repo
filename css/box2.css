@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box{
+    height: 570px;
+    width: 960px;
+    background-color: white;
+    border: solid 5px;
+    position: relative;
+}
+.box1{
+    height: 200px;
+    width: 100%;
+    background-color: black;
+    top: 70px;
+    position: absolute;
+}
+.box2{
+    height: 140px;
+    width: 280px;
+    background-color: rgb(78, 28, 126);
+    top: 290px;
+    position: absolute;
+    left: 40px;
+}
+.box3{
+    height: 140px;
+    width: 280px;
+    background-color: rgb(78, 28, 126);
+    top: 290px;
+    position: absolute;
+    left: 350px;
+}
+.box4{
+    height: 140px;
+    width: 280px;
+    background-color: rgb(78, 28, 126);
+    top: 290px;
+    position: absolute;
+    left: 650px;
+}
+.box5{
+    height: 60px;
+    width: 100%;
+    background-color: gray;
+    top: 500px;
+    position: absolute;
+    
+}
+.small{
+    height: 150px;
+    width: 900px;
+    background-color: white;
+    top: 25px ;
+    position: absolute;
+    left: 27px;
+}
+.small1{
+    height:140px ;
+    width:225px ;
+    background-color: orange;
+    top: 5px;
+    position: absolute;
+    left: 670px;
+}
+.small2{
+    height:25px ;
+    width:200px ;
+    background-color: white;
+    top: 15px;
+    position: absolute;
+    left: 15px;
+}
+.small3{
+    height:25px ;
+    width:200px ;
+    background-color: white;
+    top: 50px;
+    position: absolute;
+    left: 15px;
+}
+.small4{
+    height:35px ;
+    width:200px ;
+    background-color: white;
+    top: 80px;
+    position: absolute;
+    left: 15px;
+}
+.small5{
+    height: 55px ;
+    width: 50px;
+    background-color: rgb(139, 106, 170);
+    position: absolute;
+    left:200px ;
+    top: 70px ;
+}
+.small6{
+height: 55px ;
+    width: 50px;
+    background-color: rgb(139, 106, 170);
+    position: absolute;
+    left:200px ;
+    top: 70px ;
+}
+.small7{
+    height: 55px ;
+    width: 50px;
+    background-color: rgb(139, 106, 170);
+    position: absolute;
+    left:200px ;
+    top: 70px ;
+}
+.small8{
+    height: 30px ;
+    width: 200px;
+    background-color: white;
+    position: relative;
+    left:640px ;
+    top: 15px ;
+}
+.box6{
+    height: 30px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    top:15px ;
+    left: 840px;
+}
+

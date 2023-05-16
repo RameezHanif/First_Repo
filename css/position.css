@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    height: 700px;
+    width: 100%;
+    background-color: black
+}
+.box1{
+
+    height: 300px;
+    width: 250px;
+    background-color: black;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    background-image: url(../assect/1670428259329-image.jpg);
+    background-repeat: no-repeat;
+    background-size: 250px;
+    
+    
+
+}
+.box2{
+    
+    height: 300px;
+    width: 250px;
+    background-color: black;
+    position: absolute;
+    top: 50px;
+    left: 400px;
+    color: white;
+
+}

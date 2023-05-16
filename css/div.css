@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box{
+    display: flex;
+    justify-content: space-around;
+}
+.box1{
+    width: 200px;
+    color: white;
+    background-color:black;
+margin: 20px;
+padding: 5px;
+border: 5px solid red;
+border-radius: 20px;
+margin: 20px;
+}
+.img{
+    background-image:url(../assect/download\ \(1\).jfif) ;
+    background-size: cover;
+    margin: 0 auto;
+    width: 100%;
+    height: 200px;
+}

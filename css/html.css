@@ -1,0 +1,13 @@
+*{margin: 0;}
+
+.box{
+    color: black;
+    flex-wrap: wrap;
+    font-size: 150px;
+}
+@media screen and ( max-width: 768px;) {
+    .box{
+        background-color: orange ;
+    }
+}'
+

@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.box{
+    height: 545px;
+    width: 680px;
+    background-color: white;
+    border: 5px solid;
+    position: relative;
+}
+.box2{
+    height: 500px;
+    width: 650px;
+    background-color: blue;
+    border: 5px solid;
+    margin: 10px;
+    position: absolute;
+    padding: 10px;
+}
+.box3{
+    height:440px ;
+    width:600px ;
+    background-color: rgb(67, 67, 136);
+    border: 5px solid;
+    margin: 10px;
+    top: 20px;
+}
+.box4{
+    height: 220px;
+    width: 590px ;
+    background-color:white;
+
+
+}
+.dlu1{
+    height: 20px;
+    width: 130px;
+    background-color: rgb(2, 2, 27);
+    left: 50px;
+    top: 50px;
+    position: absolute;
+}
+.dlu2{
+    height: 20px ;
+    width: 99px ;
+    background-color: rgb(6, 6, 53);
+    position: absolute;
+    left: 250px ;
+    top: 90px;
+}
+.dlu3{
+    height: 20px;
+    width: 130px;
+    background-color: rgb(2, 2, 27);
+    left: 430px;
+    top: 50px;
+    position: absolute;
+
+}
+.dlu4{
+    height: 20px;
+    width: 300px;
+    background-color: red ;
+    left: 170px;
+    top: 200px;
+    position:  absolute;
+}
+.small{
+    height: 200px;
+    width: 250px;
+    background-color: white;
+    position: absolute;
+    left: 75px;
+    top: 250px;
+
+}
+.small2{
+    height: 200px;
+    width: 250px;
+    background-color: white;
+    position: absolute;
+    left: 350px;
+    top: 250px;
+    
+}
+.ram{
+    height: 20px;
+    width: 100px;
+    background-color: rgb(2, 2, 27);
+    left: 20px;
+    top: 20px;
+    position: absolute;
+   
+}
+.ram1{
+    height: 20px;
+    width: 100px;
+    background-color: rgb(2, 2, 27);
+    left: 130px;
+    top: 20px;
+    position: absolute;
+
+}
+.ram2{
+    height: 20px;
+    width: 200px;
+    background-color: blue;
+    left: 30px;
+    top: 170px;
+    position: absolute;
+   
+}
+.as1{
+    height: 20px;
+    width: 90px;
+    background-color: blue;
+    position: absolute;
+    left: 10px;
+    top: 10px ;
+}
+.as2{
+    height: 20px;
+    width: 90px;
+    background-color: gray;
+    position: absolute;
+    left: 150px;
+    top: 10px ;
+}
+.as3{
+    height: 20px;
+    width: 90px;
+    background-color: gray;
+    position: absolute;
+    left: 10px;
+    top: 90px ;
+}
+.as4{
+    height: 20px;
+    width: 90px;
+    background-color: gray;
+    position: absolute;
+    left: 150px;
+    top: 90px ;
+}
+.as5{
+    height: 20px;
+    width: 90px;
+    background-color: blue;
+    position: absolute;
+    left: 10px;
+    top: 165px ;
+}
+.as6{
+    height: 20px;
+    width: 90px;
+    background-color: gray;
+    position: absolute;
+    left: 150px;
+    top: 165px ;
+}

@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* .div{ 
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    animation-name: animation;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+
+
+@keyframes animation{
+0%{
+    background-color: yellow;
+
+}
+10%{
+    background-color: blue;
+
+}
+20%{
+    background-color: black;
+}
+30%{
+    background-color: blueviolet;
+}
+
+} */
+.boxes{
+    height: 500px;
+    width: 500px;
+    background-color: black;
+    position: relative;
+
+}
+.box1{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color: red;
+    animation-name:boxmove ;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    
+
+}
+@keyframes boxmove{
+    0%{
+        top: 10px;
+        left: 20px;
+    }
+    20%{
+        top: 0px;
+        left: 400px;
+        background-color: blue;
+    }
+    40%{
+        top: 400px;
+        left: 400px;
+        background-color: gray;
+    }
+    60%{
+        top: 400px;
+        left: 0px;
+        background-color: green;
+    }
+}
